@@ -41,7 +41,6 @@ TiDB  Performance Challenge Program 全流程包括：查看任务->领取任务
 
 其中 TODO Columns 按照题目难易程度划分了 3 列，分别是：TODO/Easy、TODO/Medium、TODO/Hard。每一个 Issue 还设置了一些标签，为方便大家理解，现将 TiDB Performance Challenge 相关标签所代表含义做如下说明：
 
-- “PCP-S1”：Performance Challenge Program Season 1
 - “difficulty/easy”、“difficulty/medium”、“difficulty/hard”：Issue 难度级别
 - “Component/XX”：Issue 所涉及的模块
 
